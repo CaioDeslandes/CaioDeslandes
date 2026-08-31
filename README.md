@@ -1,16 +1,51 @@
-## Hi there 👋
+Hi, I'm Caio Vieira Deslandes 👋
 
-<!--
-**CaioDeslandes/CaioDeslandes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Computer Information Systems student at Kent State University
+ Interested in Software Development and Data Analytics
+ Kent, Ohio, USA
+ Seeking internship opportunities in Information Technology
 
-Here are some ideas to get you started:
+ About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Computer Information Systems student at Kent State University with an interest in software development, data analytics, and technology.
+
+I enjoy developing my programming and analytical skills through academic coursework, certifications, and hands-on projects.
+
+I'm currently looking for internship opportunities where I can apply my technical skills, gain professional experience, and contribute to real-world projects.
+
+🛠️ Technical Skills
+
+Programming Languages:
+Python • C • C++
+
+Data & Databases:
+SQL • Data Analysis
+
+Tools & Technologies:
+Git • GitHub
+
+ Education
+
+Kent State University
+Bachelor of Science in Computer Information Systems
+Minor in Game Programming
+Expected Graduation: December 2027
+
+ Certifications
+
+- CS50x – Introduction to Computer Science, Harvard University
+- Google Data Analytics Professional Certificate
+
+ Current Focus
+
+- Software Development
+- Data Analytics
+- Python Programming
+- SQL and Databases
+- Building practical technology projects
+
+ Let's Connect
+
+I'm interested in internship opportunities in software development, data analytics, and other Information Technology roles.
+
+ LinkedIn: www.linkedin.com/in/caio-vieira-deslandes-40a06a285
