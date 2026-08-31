@@ -1,4 +1,4 @@
-Hi, I'm Caio Vieira Deslandes 👋
+Hi, I'm Caio Vieira Deslandes 
 
  Computer Information Systems student at Kent State University
  Interested in Software Development and Data Analytics
@@ -13,7 +13,7 @@ I enjoy developing my programming and analytical skills through academic coursew
 
 I'm currently looking for internship opportunities where I can apply my technical skills, gain professional experience, and contribute to real-world projects.
 
-🛠️ Technical Skills
+Technical Skills
 
 Programming Languages:
 Python • C • C++
