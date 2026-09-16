@@ -1,9 +1,8 @@
-Hi, I'm Caio Vieira Deslandes 
+Hi, I'm Caio Vieira Deslandes
 
- Computer Information Systems student at Kent State University
- Interested in Software Development and Data Analytics
- Kent, Ohio, USA
- Seeking internship opportunities in Information Technology
+Computer Information Systems student at Kent State University interested in IT Support, Help Desk, Software Development, and Data Analytics.
+Kent, Ohio, USA
+Seeking internship and student opportunities in Information Technology.
 
  About Me
 
