@@ -6,7 +6,7 @@ Seeking internship and student opportunities in Information Technology.
 
  About Me
 
-I'm a Computer Information Systems student at Kent State University with an interest in software development, data analytics, and technology.
+I'm a Computer Information Systems student at Kent State University with an interest in IT support, help desk, software development, data analytics, and technology.
 
 I enjoy developing my programming and analytical skills through academic coursework, certifications, and hands-on projects.
 
